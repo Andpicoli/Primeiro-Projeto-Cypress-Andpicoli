@@ -1,0 +1,54 @@
+{   
+    "signup": {
+        "name":  "Anderson Picoli",
+        "cpf": "00000005587",
+        "email": "andpicoli@gmail.com",
+        "whatsapp":  "21987565652",
+        "address": {
+                "postalcode": "24020006",
+                "street": "Avenida Visconde do Rio Branco",
+                "number": "755",
+                "details": "Apt 301",
+                "district": "Centro",
+                "city_state":  "Niterói/RJ"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        },
+
+    "cpf_inv": {
+        "name":  "Jack Bauer",
+        "cpf": "000b00055xx",
+        "email": "andpicoli@gmail.com",
+        "whatsapp":  "21987565652",
+        "address": {
+                "postalcode": "24020006",
+                "street": "Avenida Visconde do Rio Branco",
+                "number": "755",
+                "details": "Apt 301",
+                "district": "Centro",
+                "city_state":  "Niterói/RJ"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        },
+
+    "email_inv": {
+        "name":  "Anderson Picoli",
+        "cpf": "00000005587",
+        "email": "andpicoli.gmail.com",
+        "whatsapp":  "21987565652",
+        "address": {
+                "postalcode": "24020006",
+                "street": "Avenida Visconde do Rio Branco",
+                "number": "755",
+                "details": "Apt 301",
+                "district": "Centro",
+                "city_state":  "Niterói/RJ"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        }    
+      
+
+}
