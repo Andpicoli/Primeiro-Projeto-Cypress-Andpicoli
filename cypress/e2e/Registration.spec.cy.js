@@ -46,7 +46,7 @@ describe('Registration', ()=>{
         signup.go()
         signup.fillForm(deliver)
         signup.submit()
-        signup.alertMessageShouldBe('Oops! Email com formato inválidu.')        
+        signup.alertMessageShouldBe('Oops! Email com formato inválido.')        
             
     })
 
